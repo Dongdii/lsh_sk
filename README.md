@@ -5,5 +5,6 @@
 如需联系请通过电子邮件hat_coder02@icloud.com 或使用Telegram搜索：y31226
 # 
 2022.4.4  更新we learn刷时长版。we learn刷课程和时长都暂时只能用cookie登录。
+2022.4.4  更新词达人1.10.12.pre版本。
 #
 此项目全部仅用于学习软件设计原理。
